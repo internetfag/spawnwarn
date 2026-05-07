@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://spawnwarn.vercel.app/'
 locale = 'en-gb'
 title = 'SpawnWARN'
 theme = 'terminal'
